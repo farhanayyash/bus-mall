@@ -35,9 +35,12 @@ header h1{
     margin-right: auto;
 }
 #textSection{
-    margin-left: 50px;
-    margin-top: 50px;
+  display: block;
+  margin-top: 250px;
 
+}
+canvas{
+  margin: 50px;
 }
 .li{
    padding-bottom: 15px;
