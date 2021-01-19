@@ -202,8 +202,7 @@ function generateChart() {
             }
         }
     });
-    myChart.canvas.parentNode.style.height = '700px';
-myChart.canvas.parentNode.style.width = '900px';
+  
 }
 
 
